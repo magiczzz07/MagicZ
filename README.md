@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Javascript Developer working in Vietnam. Also iOS jailbreak developer
+#### I'm a JD working in Vietnam. Also iOS jailbreak developer
 
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.xm`, `.m`
 - 🌍 I'm mostly active within the **Jailbreak Community**
